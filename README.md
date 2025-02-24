@@ -7,5 +7,5 @@ go install
 go run main.go
 
 # build & run in linux
-go build main.go
-./main
+: go build main.go <br/>
+: ./main
